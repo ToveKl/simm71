@@ -698,22 +698,6 @@ The investment in the preschool must be long-term. Increase staff density perman
 the pedagogues have the opportunity to divide the children into smaller groups during the day. Make sure to pause
 and breaks can be taken out. Continue the investment in the salaries within the preschool, so that more people want to start
 work here and more people want to stay."			
-	borås	Preschool teacher	"Efter ca 5 år i yrket börjar min ork att svalna. Jag har alltid älskat mitt jobb och när jag skulle
-välja högskolelinje fanns det inga tvivel alls. Jag ville bli förskollärare. Första 3 åren tuffade
-på bra. Jag hade energi, bra Idéer och kände att jag hade gott om tid för planering, reflektion
-och framförallt tid för barnen.
-Igår kände jag att sista droppen i bägaren fick den att rinna över. Jag smsade min man och sa
-att nu orkar jag inte mer. Nu vill jag byta yrke. Vilket egentligen gör mig så ledsen, för att jag
-älskar ju mitt jobb.
-Men när barngrupperna växer och växer. Personaltätheten blir mindre och mindre. Jag kan
-inte stå för min yrkesprestation och garantera barnens säkerhet när vi största delen av dagen
-(förutom mellan 9-13) enbart är 2 förskollärare på 16 barn (1-2,5år). De allra flesta barn är
-närvarande från 7.30-16.30.
-Vi har barn i guppen som kräver en närvarande vuxen för att dagen ska fungera. Och tyvärr
-så kan vi inte ge hen eller resten av barnen de dem behöver i tillräckligt stor utsträckning.
-Varje dag föräldrar ringer in och sjukanmäler sina barn andas vi ut. För det betyder en mindre
-barngrupp och en mer hanterbar dag.
-Jag känner mig ledsen, arg och vilsen. Jag är ju en förskollärare. Vad skulle jag annars göra?"			
 	borås	Preschool teacher-student	"As I'm only a pre-school student, I don't have the whole picture and only see how it looks when I
 is in place. However, I have seen some when I was out. There is talk of the big one
 sickness absence in preschool, where educators are too ill to show up but where it is missing
@@ -725,8 +709,8 @@ sickness absence. At the same time, the staff do not have time to carry out the 
 day and sometimes breaks are not taken. There are a lot of staff who work themselves to pieces
 themselves in order to give the children the best possible conditions while at the same time putting them under more pressure and
 more from a higher place."			
-	botkyrka	Preschool teacher	"Två vikarier och en ordinarie personal hade tre storbarnsavdelningar ute mellan kl. 15-17.
-Det var runt 60 barn. Önskar att det hade varit en isolerad händelse men det var/är det inte."			
+	botkyrka	Preschool teacher	"Two substitutes and one regular staff had three older children's wards out between 15-17.
+There were around 60 children. Wish it had been an isolated incident but it wasn't/isn't."			
 	botkyrka	Preschool teacher	"Feeling inadequate makes you feel like a failure. Reduce the children's groups.
 Individual planning time in the schedule, etc."			
 	botkyrka	Preschool teacher	"Large groups of children, a number of different languages, socially vulnerable areas, children in need of support, difficult
