@@ -1,5 +1,5 @@
-Län	Kommun	Profession	Text			
-Västra Götaland		Head of preschool	"I will not leave a long story but just confirm that even us preschool managers, who
+Id	Län	Kommun	Profession	Text			
+1	Västra Götaland		Head of preschool	"I will not leave a long story but just confirm that even us preschool managers, who
 should be the ones who support, work with an impossible mission! Or we can make it work
 right on the border! I think it is shameful that politicians do not understand the seriousness and give us
 better conditions. I see staff tearing the hedge off! That hits the wall! Crying.
@@ -11,7 +11,7 @@ spiral! I know that you have to be loyal to your employer and that's who I am as
 fight for the preschool and do the best with the funds we have! But I agree with that
 as long as we fight in the shadows, the truth will not come out. And it's not my bosses fault
 but it is a system error in politics!"			
-	ale	Preschool teacher	"I am a fifty-year-old preschool teacher who has worked in childcare (preschool class, leisure
+2		ale	Preschool teacher	"I am a fifty-year-old preschool teacher who has worked in childcare (preschool class, leisure
 and preschool) for over thirty years. Dismantling began in the early 1990s. Then I worked
 at afternoon home. We were three educators of 12 9-11 year olds. Lots of time was there too
 preparation/planning, in the mornings when the children were at school.
@@ -30,7 +30,7 @@ solid thorns.
 I want to be able to be a happy, proud and ambitious preschool teacher. Enough for all children. As
 can work without getting sick. Make sure to visit the toilet during the day. Be able to take a full break and be able to
 laugh, talk and joke with my colleagues sometimes."			
-	ale	Preschool teacher	"Help the staff - our children are suffering - http://www.aftonbladet.se/a/MyEaJ
+3		ale	Preschool teacher	"Help the staff - our children are suffering - http://www.aftonbladet.se/a/MyEaJ
 Agree with Ida Thorén in everything she describes about the preschool's activities. There is a solution
 and that is to abolish 15,30 and 40!!! hours of preschool for children on parental leave. Many
 municipalities today offer an excellent opportunity for parental leave and
@@ -57,7 +57,7 @@ expand the open preschool and you will find that the children start to feel bett
 motivated to study when they start school. Added to that is another win. The staff
 will stay, they will have more energy to further develop the preschool's activities, which in the end
 will benefit our youngest citizens. Thanks for the word!"			
-	ale	Preschool teacher	"Working in a fantastic team in a house with good cooperation. In recent years it has
+4		ale	Preschool teacher	"Working in a fantastic team in a house with good cooperation. In recent years it has
 have been cutbacks and periodic stoppages of substitutes and purchasing stops. In 2017, it was big
 savings and we took in more children in a group with many children in need of extra support in different
 way. That was the final straw. More and more it was noticed that all energy had to be put into that handful
@@ -74,7 +74,7 @@ and give lots of praise for keeping your spirits up. The sleeping problems have 
 just that none of us get hurt worse. It cuts my heart when I think of the children in this year's group
 who suffer, those who don't act outwardly but need support in other ways, because we don't have time for that
 work with. Deplorable."			
-	ale	Preschool teacher	"I have worked as a preschool teacher for 9 years. During the 9 years I have worked at 4 different preschools in
+5		ale	Preschool teacher	"I have worked as a preschool teacher for 9 years. During the 9 years I have worked at 4 different preschools in
 3 municipalities. I have had about 24 colleagues if you count those who worked in the department more
 than 2 months. Of these, 9 have been preschool teachers, 7 have been childminders or trained to do so
 something else related to the profession and 8 have been temporary colleagues without training.
@@ -118,15 +118,15 @@ absence of colleagues without having to bring in substitutes, which also reduces
 relationships for the children. I also think that the profession would become more attractive to want to work in both
 for preschool teachers and substitutes and more had managed to stay in the profession and not have to change or
 be on sick leave."			
-	alingsås	Preschool teacher	"Substitute stoppage, committed educators who call in sick because they can't take it, educators
+6		alingsås	Preschool teacher	"Substitute stoppage, committed educators who call in sick because they can't take it, educators
 who cannot achieve either curriculum, school law or other regulations, a constant feeling that
 not enough. The list can be made as long as desired... The bottom line is that this is unsustainable.
 Educator after educator disappears from the business and the list of qualified staff is coming soon
 non-existent. And when new staff are sought, there is not a single qualified staff member who applies.
 Wonder why!"			
-	alingsås	Preschool teacher	"Finances and children's groups go hand in hand. Bad economy = larger groups of children. If
+7		alingsås	Preschool teacher	"Finances and children's groups go hand in hand. Bad economy = larger groups of children. If
 the economy could be stabilized, the children's groups could also be reduced!"			
-	alingsås	Preschool teacher	"I think my work as a preschool teacher is fantastically fun and developing! For eleven years
+8		alingsås	Preschool teacher	"I think my work as a preschool teacher is fantastically fun and developing! For eleven years
 then, after working in large children's groups, my health gave way and I stopped working within
 the preschool. Before that, I had time to work in a children's group for a few years with about 15
 children which was great! Two years ago I started working as a preschool teacher again and found that there is a lack of trained people
@@ -150,7 +150,7 @@ supportive and preventive resources to have their needs met? Many of the days of
 time is spent devising the best possible priorities with a constant guilty conscience not to
 attend to the children's needs to the extent that they should. Last fall I was all by myself with 16
 kids for lunch!"			
-	alingsås	Preschool teacher	"A few years ago I worked at a resource preschool. To come to a group of about 12 children
+9		alingsås	Preschool teacher	"A few years ago I worked at a resource preschool. To come to a group of about 12 children
 meant being able to suffice! Getting to work with a group of fewer children meant for me not to
 having to have a disturbed night's sleep, because the brain cannot let go of the day's impressions and constant thoughts
 how to arrive at the best possible solutions when there is a lack of staff. In addition, how
@@ -166,7 +166,7 @@ to work and deliver because I work part-time. There needs to be an investment in
 prerequisites for also obtaining a good, long-term working environment! The strained
 the situation at the preschool is not an individual matter, it is a structural and political one
 question!"			
-	alingsås	Preschool teacher	"I have worked for two years as a preschool teacher and it feels like I have already had time to participate
+10		alingsås	Preschool teacher	"I have worked for two years as a preschool teacher and it feels like I have already had time to participate
 most of it. When I started at my current preschool, I was immediately told that
 the economy was bad.
 In the two years that I have worked at this preschool, I have changed colleagues three times. Many
@@ -199,12 +199,12 @@ the drawing they wanted so badly. I often have to interrupt them when they want 
 if anything - because I have to be in several places at the same time. Because we are never enough.
 Please all the politicians out there, I love my job and my kids but we all get down on our knees and
 soon can't take it anymore."			
-	alingsås	Preschool teacher-student	"Short and concise story from the preschool of reality. According to the politicians in the city of Gothenburg, there are
+11		alingsås	Preschool teacher-student	"Short and concise story from the preschool of reality. According to the politicians in the city of Gothenburg, there are
 there is room/place for 6 more children at our preschool this term. We will then have 23 children
 the department for the oldest, 19 in the middle and 18 in the younger with a staffing density of 3
 educators in each department. Tomorrow the semester starts and we don't even have
 chairs for all children."			
-	alvesta	Preschool teacher	"Sick leave since Easter 2017. That day I couldn't find home. Called my husband in a panic. Cried
+12		alvesta	Preschool teacher	"Sick leave since Easter 2017. That day I couldn't find home. Called my husband in a panic. Cried
 continuously. Anxiety. Insomnia. Then the tears stopped and the anxiety took over. My memory
 disappeared. Barely recognized my children. I saw they were talking to me but I couldn't
 understand the words. We then had almost 20 children in 4 part-time jobs. Colleagues who quit. Pressed
@@ -217,7 +217,7 @@ black. Which car is mine? Where do I live? How did I get home? Today I work 15 h
 the week. The orc does not exist. The insurance company is breathing down my neck. The job as well. Must come
 back quickly or you will have to be relocated. The anxiety is there. Life is not the same and
 will never be. I fall and don't know how to get up. Who thanks me? No."			
-	aneby	Preschool teacher	"The temporary worker shortage feels very stressful at times. I work at a rural preschool and that
+13		aneby	Preschool teacher	"The temporary worker shortage feels very stressful at times. I work at a rural preschool and that
 seems to be more difficult to get substitutes there. Many also do not have a driver's license. What should we do with it?
 the day those who are pensioners but don't work as temporary workers can't take it anymore?! Not having enough
 planning time is also a stressful moment, we are only three preschool teachers out of seven employees at my centre
@@ -225,7 +225,7 @@ Job. Then we preschool teachers need more planning time to get everything done a
 do. Instead of having to put things off until next week. Invest more in us preschool teachers
 or hire more preschool teachers! So we who are preschool teachers can go home from work and think:
 today has been a good working day. I managed to get what I needed."			
-	arboga	Preschool teacher	"When I get home in the evening, my tinnitus reminds me. I sit exhausted on the sofa
+14		arboga	Preschool teacher	"When I get home in the evening, my tinnitus reminds me. I sit exhausted on the sofa
 while my fortunately equal husband both takes care of the children and prepares the food. No musts
 cope with and when it's time to put the children to bed, I fall asleep first of all.
 Nevertheless, I am one of those who love this job. We are getting fewer and fewer, it feels like, but like
@@ -238,7 +238,7 @@ run out of energy with one more person walking into the wall. It is difficult to
 appropriate education. That meeting each child will have to wait... again. Now it's like that
 many times to get through the day. The children's development potential and self-esteem get
 we take another day. Because it wasn't that important anyway, was it?"			
-	arboga	Preschool teacher	"Works at a preschool with 40 children in the department and 9 teachers. We share during the days
+15		arboga	Preschool teacher	"Works at a preschool with 40 children in the department and 9 teachers. We share during the days
 into smaller groups. After a tough autumn with 2 educators who have largely been gone
 one or more days each week throughout the autumn, due to various illnesses and a teacher
 long-term sick leave, it has led to me being left alone in our smaller group of 14
@@ -253,7 +253,7 @@ group, because I was their security regarding diaper changes, potty training, to
 road and crash into the infamous wall as I forgot things on several occasions, had a hard time
 to sleep and experienced heart palpitations when I was going to sleep. My salvation in this was that I
 got to stay home and babysit with my youngest child for a few days."			
-	arboga	Preschool teacher	"I have a long-term substitute in my smaller group who is on sick leave for 1 month. The substitute has been
+16		arboga	Preschool teacher	"I have a long-term substitute in my smaller group who is on sick leave for 1 month. The substitute has been
 sick a lot throughout the autumn and it has continued in the same way. She is employed until the end
 March and shall possibly get extended until the end of June. I have pointed this out to the manager, that I do not believe
 sustainable, as I know that I will be alone in my group at least every two weeks. This is because I
@@ -273,7 +273,7 @@ biweekly. I cried when I went to work. It doesn't feel motivating to go to work,
 I know that the work I do will be pure storage and no educational activity. Now it feels
 as if I'm going to be able to get better, it's ME who has to change workplaces and not them
 the person who is away all the time, when the boss doesn't hear anything."			
-	arvika	Preschool teacher	"What probably gave me the most stress is that I love my profession. I'm really passionate about that
+17		arvika	Preschool teacher	"What probably gave me the most stress is that I love my profession. I'm really passionate about that
 work with just the little ones.
 I started in a new municipality when I was pregnant. One with few educated, many
 long-term sick leave, and many on their way back from sick leave.
@@ -294,7 +294,7 @@ the heart of not even being able to work as you want as department manager for y
 the economy does not exist to give me educated colleagues who also think of the best interests of the children. For
 they have already broken... And soon me too. And who is there then to protect the children
 against a harmful approach and a childish view from the 20s?"			
-	alvesta	Preschool teacher	"I graduated in June this year, and as I longed for the 3.5 years to finally start
+18		alvesta	Preschool teacher	"I graduated in June this year, and as I longed for the 3.5 years to finally start
 work with the best we have - our children, our future! But I already feel a great concern about
 the future. I started working at a preschool where pedagogy was barely on the map. I
 thus began to work in another municipality with a higher salary, work clothes, 90% of
@@ -312,7 +312,7 @@ and when I get home, I have far from the energy I wanted to spend time with mine
 own children. We barely manage to make sure the children are safe, seen, fed, clean and rested.
 How can we work based on the curriculum in this chaos? How can we offer it to the children?
 business they deserve?"			
-Blekinge		Head of the preschool district	"I get both sad and furiously angry when I read all the stories!! Have worked in
+19	Blekinge		Head of the preschool district	"I get both sad and furiously angry when I read all the stories!! Have worked in
 preschool since 1979 and have not for one day regretted my career choice! Just like many before me
 has spoken; it IS the best job in the world! But unfortunately the politicians have not understood what it is
 is about and has given us the worst conditions in the world!! We are the ones who pave the way for that
@@ -328,7 +328,7 @@ always been there? There is only one way out and that is to strike. A single day
 Would have stayed. We must once and for all realize that everything has a price. That's enough now. Let 2018 go
 history as the year when we educators stood up and made the case for the children. The year we went
 together for a better future. There are elections soon and now we have the chance."""			
-	boden	Preschool teacher	"Works at a private preschool in a children's group with children 1-2 years old. We are three full-time employees out of 17
+20		boden	Preschool teacher	"Works at a private preschool in a children's group with children 1-2 years old. We are three full-time employees out of 17
 children. Every day we work to row an educational activity, to work according to the goals, to follow
 laws and regulations while the children have a rewarding day at preschool. Instead, it feels like us
 stores the children and ""gates"" them between activities. I go home every day with a feeling that
@@ -336,7 +336,7 @@ I haven't seen all the children and haven't had time to talk to the parents. Som
 inadequacy when I get in the car on the way from work. I wish that the zeal and joy I
 had for my job during and after preschool education came back! Because really
 I love my job!"			
-	bollebygd	Preschool teacher	"After four months in a new place, I gave up. We were promised 5-6 hours of planning a week;
+21		bollebygd	Preschool teacher	"After four months in a new place, I gave up. We were promised 5-6 hours of planning a week;
 individual planning, in work teams and in reflection groups. The entire preschool included seven
 departments. Six departments were located in the same building and would cooperate two by two. On
 two departments with 16 children between 1 and 3 years in each group we would work 8. 3 i
@@ -368,7 +368,7 @@ Failure to plan also results in failure of educational activities in the group. 
 four months, we were able to sit on our reflection time twice, but in the name of honesty, we did
 not much to reflect on as we never had time to get planning out. I left preschool for
 to try other educational activities instead"			
-	borlänga	Preschool teacher	"In my children's group there are 2 preschool teachers (100% and 75%) and 1 uneducated (50%). It works
+22		borlänga	Preschool teacher	"In my children's group there are 2 preschool teachers (100% and 75%) and 1 uneducated (50%). It works
 when we have a maximum of 10 children but with the entire group of children in place, it is difficult. We have the biggest
 children's group between 9 a.m. and 2 p.m., Monday-Thursday. In the children's group, we have 2 children that we receive support for
 and advice from a special education teacher. It is difficult to have enough for 14 3-4 year olds. Most of them don't talk
@@ -377,7 +377,7 @@ since 6.5 years ago, it is not adapted to the children's group. One large room, 
 hall, blockage in the drain sometimes, poor ventilation. Before Christmas it was 17 degrees indoors. Ours
 working schedule has been changed for more time from the children's group, something that creates bad
 work environment and many are looking for another job."			
-	borlänga	Preschool teacher	"For four years I have worked as a trained preschool teacher, but even now I am trying to make plans
+23		borlänga	Preschool teacher	"For four years I have worked as a trained preschool teacher, but even now I am trying to make plans
 for what I should do if the career choice doesn't work.
 Works with children aged 3-5 and in a, as I understand it, relatively small children's group of 20 children
 with 2.75 in staffing. Love my job and my colleagues and don't really want to change careers
@@ -388,19 +388,19 @@ also enormous when no account is taken of which children are in the children's g
 the need for extra support seems to be increasing, probably as a result of the above factors. The
 The downward spiral is underway and major changes must be made NOW if society is not to stand
 facing a collapse. When the preschool stops, Sweden stops."			
-	borås	Preschool teacher	"I see daily how the children are affected by the large groups of children. Today, the children are more
+24		borås	Preschool teacher	"I see daily how the children are affected by the large groups of children. Today, the children are more
 loud, unfocused, in need of more validation than they were X number of years ago. I
 have several colleagues who are on sick leave due to stress. I have been too. What kind of start is it in?
 the life we ??give them when we can't get enough. The children are our future. Let's give them a safe start.
 Smaller groups = more present and happy pedagogues who have the energy to run the business accordingly
 the goals."			
-	borås	Preschool teacher	"So that I, as a preschool teacher, can meet children's needs and goals, as well as guidelines such as
+25		borås	Preschool teacher	"So that I, as a preschool teacher, can meet children's needs and goals, as well as guidelines such as
 placed upon us, something must happen quickly! Tired of babysitting, want to use mine
 knowledge and being able to see the children develop into wonderful people with empathy for each other.
 Should four years of study be thrown away for this? Raise wages and review the children's future.
 Fewer children in the groups give the children greater opportunities to succeed in life. The preschool provides
 the basis for lifelong learning."			
-	borås	Preschool teacher	"I really love my job but I don't know how much longer I can take it. The requirements we have on ourselves are
+26		borås	Preschool teacher	"I really love my job but I don't know how much longer I can take it. The requirements we have on ourselves are
 completely unreasonable! To run a well-functioning educational activity at the same time as we have to clean,
 wash and wash dishes. We will check that the children's schedule is correct and the number of hours is correct. We
 should stock up on paper towels, toilet paper, cleaning agents and take out garbage. We will
@@ -418,7 +418,7 @@ fellow researchers and discoverers are what I'm passionate about! To create an e
 listens to and sees every child, where the children's influence is obvious, where the children get many
 opportunities to express oneself using aesthetic means of expression, where we get opportunities to
 regular reflection and further education, that's what I dream of!"			
-	borås	Preschool teacher	"Being alone with 19 children for half a day is not optimal in order to guarantee the children's well-being
+27		borås	Preschool teacher	"Being alone with 19 children for half a day is not optimal in order to guarantee the children's well-being
 security. Even if other departments step in and help each other, everyone's work comes after
 the curriculum in a pinch. Preschool teachers plan their teaching activities in a position of dependence on
 their colleagues. Teaching children aged 2-6 requires small groups. But there is a lack of staff
@@ -428,7 +428,7 @@ distributed to other departments or have staff coming in from different departme
 stress and not at all from the children's perspective for a good learning environment. We need resources to
 be able to have a good teaching environment with a staff density that can at least guarantee
 children's safety!"			
-	borås	Preschool teacher	"In recent weeks, a stomach bug and a prolonged fever with a cold have afflicted us
+28		borås	Preschool teacher	"In recent weeks, a stomach bug and a prolonged fever with a cold have afflicted us
 Preschool. The staff working in the most affected departments have almost all been
 at home for either one or the other or both. The staff that had to cover up
 the days there have also suffered.
@@ -443,7 +443,7 @@ falling ill takes a toll on the body and you are not yourself for several days.
 There is a lot of thinking about how the preschool teaching profession can become more attractive in order to get more people to apply
 to the profession. But also to get more people not to leave. What is described here is currently a big one
 back with the profession. Full compensation from the first sick day can be part of a large job."			
-	borås	Preschool teacher	"Right now as I write this I am crying. Tomorrow I'm going back to work after a few
+29		borås	Preschool teacher	"Right now as I write this I am crying. Tomorrow I'm going back to work after a few
 days off... A job at a preschool in Borås, in a group of 23 loud children, 98% with
 other mother tongue, two colleagues, one of whom works 80% due to stress. I don't want to go, my
 heart pounding, I'm sweating. I just want to disappear. But right now I have nowhere to go.
@@ -453,14 +453,14 @@ a lot of pain in my chest and I feel so incredibly tired. I was given some anti-
 just feel that I can't stand such a life. But I am 50 years old, still have
 student loans to pay....What happens to me? Think of us, we need at least as many
 vacation days like all other teachers to be able to cope...please ...Help us!"			
-	borås	Preschool teacher	"Just the points you mention in your text about it being understaffed, for large groups of children, fix
+30		borås	Preschool teacher	"Just the points you mention in your text about it being understaffed, for large groups of children, fix
 and trick/change their and their colleagues' times in order to have a safer environment for the children and
 that we colleagues should not be left in the lurch, is correct. Worried parents. No substitutes to be brought in, spring
 planning time does not exist. The sick leave is only getting more and more at the preschools, even there
 own children go and in their own workplace. As an educator, you want the best for the children and do everything in it
 its power that the children should feel safe and have a nice and valuable day at their ""job"". We
 need to see and FEEL a big change in the preschool!!"			
-	borås	Preschool teacher	"Help us!
+31		borås	Preschool teacher	"Help us!
 What is a child in preschool? A number of hours or an individual with their own needs?
 As the system is now, a children's group is seen in the number of volume hours. When the sum of a certain
 time is not reached, more children are admitted to a children's group. The problem that occurs is that
@@ -558,7 +558,7 @@ yet there is no one to replace these, then more children are pushed into the chi
 realizes that staff is needed.
 How do we solve this in the best way?
 Sincerely, educators in the preschool"			
-	borås	Preschool teacher	"At our preschool there is a lack of staff almost every day and we are forced to do puzzles and borrow
+32		borås	Preschool teacher	"At our preschool there is a lack of staff almost every day and we are forced to do puzzles and borrow
 staff so that no one has to work completely alone. We should preferably not bring in substitutes and when we get and
 really need, there are none to be had. Plans fall as we have to solve
 staff shortage. Outwardly, we must not show that we are having a hard time. People feel bad, are sick often
@@ -582,7 +582,7 @@ our work we are underpaid and are told that we are doing what we should in terms
 is several thousand Swedish kroner below other municipalities in the country. It is time for a radical change
 in preschool, otherwise many talented and fantastic educators will soon disappear
 other professions and preschool fall to a level the politicians probably don't even want to imagine."			
-	borås	Preschool teacher	"Who takes care of the town's little ones when we're not at work? When we have to be home for
+33		borås	Preschool teacher	"Who takes care of the town's little ones when we're not at work? When we have to be home for
 the body says it's enough? When we don't get the response we need to cope?
 Who takes care of us when we can't take care of the little ones? Who supports us before it goes like this
 far? Who has the right to come and insult and criticize us without us getting shit?
@@ -597,7 +597,7 @@ must do the best I can, the best of the situation, get through the day! But the 
 day? For all children's rights to development and learning, where I want to be there for them! Where
 does it exist?
 I'll hold out a little longer, I think!"			
-	borås	Preschool teacher	"When I started at my last workplace, I asked to avoid too much responsibility as I am
+34		borås	Preschool teacher	"When I started at my last workplace, I asked to avoid too much responsibility as I am
 mother of small children, works 75% and studies 25%. It was me and 2 other fsk teachers and the rest
 untrained temporary workers. The preschool teacher in my neighboring department quickly walked into the wall and is
 still on sick leave which made me department manager for not only 1 but 2
@@ -610,14 +610,14 @@ And there are children with special needs who are outgoing and very sensitive to
 this preschool. I have now resigned because I don't want to go into the wall and start
 soon at another preschool where I believe and hope that it is a little more stable. But the children are
 left…"			
-	borås	Preschool teacher	"I am a newly graduated preschool teacher. I have worked in preschool for a year with no previous experience
+35		borås	Preschool teacher	"I am a newly graduated preschool teacher. I have worked in preschool for a year with no previous experience
 in addition to my vfu. I want to show the front feet and I have tried to do that during this year which
 passed, which has meant that I have taken on major areas of responsibility in the preschool. In part, I have
 started the Läslyftet, which I think is fantastic fun! But I am not given the opportunity to do this.
 I have to take from my own PUT time for preparation which becomes difficult when I hardly get out
 some PUT time, it has ended with me sitting at home and stressing about catching up when I
 know i shouldn't. But at the same time, I don't want to get on the manager's bad side."			
-	borås	Preschool teacher	"As a fairly recently appointed preschool teacher, I feel fundamentally deceived about my education and have doubts
+36		borås	Preschool teacher	"As a fairly recently appointed preschool teacher, I feel fundamentally deceived about my education and have doubts
 sometimes on my choice of profession. I love children and being able to help shape our society
 future for the better sounded like a dream job to my ears. Now that I'm out in the business
 I don't know what to believe or feel.
@@ -641,14 +641,14 @@ The situation is really not sustainable or even humane!
 If nothing happens soon, I will definitely change my profession, because it feels like nothing but hell to procrastinate
 children for this. These little ones have no say, but must only adapt to the chaos.
 It's sick...to say the least!"			
-	borås	Preschool teacher	"Has, after 40 years in preschool, been on sick leave for exhaustion depression. The thing that worries
+37		borås	Preschool teacher	"Has, after 40 years in preschool, been on sick leave for exhaustion depression. The thing that worries
 to me most is how my colleagues who have not yet worked for so long will be able to continue as
 preschool teacher. I agree with all these stories in terms of concern for the children, a big one
 frustration because you can rarely carry out what is planned, always trying to keep up appearances
 up so that the parents feel safe when they leave their children, etc. Right now I want to
 just retire. In this work, it is important that private life goes on as if on rails, you don't have any
 margins should something happen."			
-	borås	Preschool teacher	"We were short on staff and with a child at school who is having a really hard time
+38		borås	Preschool teacher	"We were short on staff and with a child at school who is having a really hard time
 feel safe with us. Basically, 1 staff member is completely spent on that child. No substitutes are available
 available if you do not book an appointment well in advance (and even then it is not guaranteed that you will get one
 locum tenens). So with a staff member sick, a staff member who had to devote 100% of their attention to
@@ -660,7 +660,7 @@ having to work overtime as well) so I was left alone with 8 children aged 1-3 ye
 again diapers would be changed, snacks would be arranged, it would be picked up after rest
 and that you should start making a nice ending and meet the guardians who come for
 to retrieve the most important things in their lives."			
-	borås	Preschool teacher	"After about 5 years in the profession, my energy is starting to cool down. I have always loved my job and when I had to
+39		borås	Preschool teacher	"After about 5 years in the profession, my energy is starting to cool down. I have always loved my job and when I had to
 choosing the university course, there were no doubts at all. I wanted to be a preschool teacher. The first 3 years were tough
 on good I had energy, good Ideas and felt that I had plenty of time for planning, reflection
 and above all time for the children.
@@ -676,7 +676,7 @@ then we cannot give her or the rest of the children what they need to a sufficie
 Every day parents call in and report their children sick, we breathe a sigh of relief. Because that means one less
 children's group and a more manageable day.
 I feel sad, angry and lost. I am a preschool teacher. What else would I do?"			
-	borås	Preschool teacher	"The state subsidy for the preschool
+40		borås	Preschool teacher	"The state subsidy for the preschool
 “A short-term investment”
 Last year, the city of Borås was able to report reduced groups of children in preschool
 that temporary fictitious departments could be opened through the state subsidy. In many places put
@@ -698,7 +698,7 @@ The investment in the preschool must be long-term. Increase staff density perman
 the pedagogues have the opportunity to divide the children into smaller groups during the day. Make sure to pause
 and breaks can be taken out. Continue the investment in the salaries within the preschool, so that more people want to start
 work here and more people want to stay."			
-	borås	Preschool teacher-student	"As I'm only a pre-school student, I don't have the whole picture and only see how it looks when I
+41		borås	Preschool teacher-student	"As I'm only a pre-school student, I don't have the whole picture and only see how it looks when I
 is in place. However, I have seen some when I was out. There is talk of the big one
 sickness absence in preschool, where educators are too ill to show up but where it is missing
 temps to cover up. It's very true, but I haven't seen many people talk about it
@@ -709,15 +709,15 @@ sickness absence. At the same time, the staff do not have time to carry out the 
 day and sometimes breaks are not taken. There are a lot of staff who work themselves to pieces
 themselves in order to give the children the best possible conditions while at the same time putting them under more pressure and
 more from a higher place."			
-	botkyrka	Preschool teacher	"Two substitutes and one regular staff had three older children's wards out between 15-17.
+42		botkyrka	Preschool teacher	"Two substitutes and one regular staff had three older children's wards out between 15-17.
 There were around 60 children. Wish it had been an isolated incident but it wasn't/isn't."			
-	botkyrka	Preschool teacher	"Feeling inadequate makes you feel like a failure. Reduce the children's groups.
+43		botkyrka	Preschool teacher	"Feeling inadequate makes you feel like a failure. Reduce the children's groups.
 Individual planning time in the schedule, etc."			
-	botkyrka	Preschool teacher	"Large groups of children, a number of different languages, socially vulnerable areas, children in need of support, difficult
+44		botkyrka	Preschool teacher	"Large groups of children, a number of different languages, socially vulnerable areas, children in need of support, difficult
 to have good cooperation with guardians, children who are unwell, high staff turnover i
 all suffered. In addition, there are many untrained educators, few pre-school teachers and high levels of sickness absence
 at the workplace. It is a complex situation that is unsustainable for an equivalent preschool..."			
-	botkyrka	Preschool teacher	"My story doesn't have to be so long. The crisis unfolds daily. Large groups of children, sick
+45		botkyrka	Preschool teacher	"My story doesn't have to be so long. The crisis unfolds daily. Large groups of children, sick
 pedagogues, loud noise, stressed children and adults, lack of substitutes, hardly any
 planning time. I myself have been on sick leave 2 times due to exhaustion and anxiety since I became pregnant
 fully trained VT-15. The children get hurt and we who work get hurt. No more silence!
@@ -734,7 +734,7 @@ have not received any further training. The municipality seems to mostly blame s
 children in already overburdened groups. We preschool teachers don't even have a pedagogical agreement
 development time, it will be difficult to carry out the assignment then.
 Everyday life is that you often have to go one staff short, even though all the children are in place."			
-	botkyrka	Preschool teacher	"I am in a situation where I wonder if I have chosen the right profession. I have burned to be in a business
+46		botkyrka	Preschool teacher	"I am in a situation where I wonder if I have chosen the right profession. I have burned to be in a business
 where the children's curiosity and desire to learn. I have felt proud to be a preschool teacher.
 But now I just feel bitter! Since long-term sick leave is all too common today there are
 no choice but to work with temporary workers. What happens is that everything ends up on me when I don't
@@ -750,7 +750,7 @@ conflicts with each other. The politicians should be with the business for a wee
 reality looks like, because they will never be able to understand it otherwise. And I am convinced
 that every single one would be shocked by what it's like to be in that noise level, no matter how much you don't
 catch up and what big groups of children there are!!!"			
-	botkyrka	Preschool teacher	"I have worked as a preschool teacher for 30 years and have seen the preschool develop over time. Has
+47		botkyrka	Preschool teacher	"I have worked as a preschool teacher for 30 years and have seen the preschool develop over time. Has
 many times thought that now I have to get to grips with our work environment within the preschool, but as for
 Most of us don't have the energy, but we trot along as usual. Clearly, our work environment
 untenable. The children in the large children's groups feel unwell and are insecure. Know one
@@ -765,7 +765,7 @@ great read but it doesn't work in groups of 15 toddlers. Has been on sick leave 
 several occasions due to stress and soon sees no choice but to quit. Is it a worthy one
 working life when you are constantly so tired and worn out that the only thing you think about is going home and
 sleep?"			
-	botkyrka	Preschool teacher	"It is Tuesday morning at 6.30 and I open at the preschool. My colleague who should have opened with
+48		botkyrka	Preschool teacher	"It is Tuesday morning at 6.30 and I open at the preschool. My colleague who should have opened with
 I haven't seen it yet, I hope she's just late. I hardly have time to think the thought before
 the phone is ringing. My colleague will stay home with a sick child today. Out in the hall the first ones start
 the families show up. Simultaneous capacity at the highest level now applicable. Receive the child from a
@@ -777,12 +777,12 @@ are on their way in and 3 slightly older ones who are playing by themselves, but
 ""only"" 7.5 minutes later, I get a reply that the person who was supposed to start at 7.30 will arrive as soon as possible.
 Time passes and I am up to 14 children, alone. At 07.13 the colleague appears. Finally
 can i breathe out…"			
-	botkyrka	Preschool teacher	"We don't have time to meet all the children where we want. Small meetings with the children do not take place, the stress
+49		botkyrka	Preschool teacher	"We don't have time to meet all the children where we want. Small meetings with the children do not take place, the stress
 has taken over. The focus of my days is often about how to get the day together. A business
 is often ""cancelled"" due to staff shortages. To come home after an intense working day and feel
 that I haven't done a good job, feeling inadequate. It's a feeling that more will come
 and more often. The stress also causes attrition in the staff group."			
-	botkyrka	Preschool teacher	"Have worked as a preschool teacher for 30 years and am starting to feel that I can no longer stand for it
+50		botkyrka	Preschool teacher	"Have worked as a preschool teacher for 30 years and am starting to feel that I can no longer stand for it
 here. The daily stress and feeling of inadequacy is enormous. Now that's enough! The
 cannot live up to all the governing documents anymore in the working environment that prevails, we are no supe
 people. In the last week, however, I have experienced something fantastic. Many children have
@@ -795,7 +795,7 @@ got to see what we hadn't been able to see before. It's so amazing It has to be 
 change NOW!!!!
 For me, it's not about a higher salary as it doesn't mean that we would be able to cope more, but it does
 about our WORKING ENVIRONMENT, which is not long-term sustainable for the future."			
-	bromölla	Preschool teacher	"After thinking for a while about whether I should write or not (I know that I actually have it
+51		bromölla	Preschool teacher	"After thinking for a while about whether I should write or not (I know that I actually have it
 ""good"" compared to many other colleagues in other municipalities) I have now decided to
 share with me my spring semester 2017. The semester when I was close to breaking down and giving up
 this profession. I work in a small children's department and in the spring of 2017 we had children 1-2 years old. February June
@@ -820,7 +820,7 @@ infection after infection, but I couldn't be at home, so I just had to bite the 
 Before autumn 2017, one colleague was replaced (she moved to the sibling department instead)
 and we had to keep our children's group intact so now we are a 1-3 year department. Am so grateful to receive
 spend another year with these children as we got so close when it was just ""us""."			
-dalarna		Preschool teacher	"I started studying at university when I was 31 years old. Was so sure it was me in preschool
+52	dalarna		Preschool teacher	"I started studying at university when I was 31 years old. Was so sure it was me in preschool
 wanted to work. I took my preschool teacher's degree in January 2016 and was very excited to finally
 start working after 3.5 years of studies for my dream profession. Once I started working I got one
 shock! It was so stressful and catching up with all the children was completely impossible. Children who were well
@@ -834,7 +834,7 @@ still very bad. Lying in bed has become my everyday life. I feel cheated and
 disappointed by the profession. Terrified to return to the impossible everyday life in preschool. Something
 must be made! Preschool is about children's lifelong learning. It will hit hard
 society when these little stressed children grow up. It's so horrible."			
-	danderyd	Preschool teacher	"I don't really know where to start. I myself have crashed twice. Been on sick leave.
+53		danderyd	Preschool teacher	"I don't really know where to start. I myself have crashed twice. Been on sick leave.
 When you then become ""healthy"", you are back in the same stress again. You should also be on that
 mother and wife. How to cope with everything? How to cope with everything? It is the physical and
 psychological stress. To not be enough. Somewhere. Many children, few educators. To be able to change
@@ -845,7 +845,7 @@ the psychic. Over not being able to have the educational activities that we shou
 as you want! There is no time, no money, no resources. The joy of work is over.
 The brain is gone. There is nothing more than making sure the children have the best possible time.
 I feel dejected and frustrated."			
-		Preschool teacher	"This is what a week looks like for me:
+54			Preschool teacher	"This is what a week looks like for me:
 8-9.15 (2 pcs)
 9.15-9.30 (3 pcs)
 9.30-11.15 (2 pcs Mon & Fri, 3 pcs Tues-Thurs)
@@ -871,7 +871,7 @@ ironing a pearl plate etc. And the educational activities? I CANNOT do my job
 which makes me angry, sad and frustrated. When I get in the car on the way home, I can't
 hold back the tears. I'm so tired! And now it's time to pick up my 6 year old son and be one
 happy and committed mother to him."			
-	ekerö	Preschool teacher	"Hello!
+55		ekerö	Preschool teacher	"Hello!
 I have worked with children since 1979. Became a preschool teacher in 1992. The development has slowly moved towards
 larger groups of children. In recent years, the shortage of preschool teachers has increased significantly. Educators quit
 and you can't get hold of new graduates, skills have dropped and that affects the children. My
@@ -885,7 +885,7 @@ I won't be able to work until it's time for my pension, I'm afraid of getting si
 already signs of exhaustion syndrome. Do something now!
 Think about our children and our future! Act! Make sure people want to work in preschool again and
 building our future together with our competent child."			
-	eksjö	Preschool teacher	"I worked 30 years in preschool. 16 years as a preschool teacher, previously as a nanny. I felt
+56		eksjö	Preschool teacher	"I worked 30 years in preschool. 16 years as a preschool teacher, previously as a nanny. I felt
 that I was in the right place and thought I would stay until 65. But the last 6 years were terrible
 many ways. I tried to change my work situation and that of others, sat in the teachers' union
 board, was a negotiator and sat in collaboration groups. I am a driven and
@@ -899,7 +899,7 @@ myself and did not see my work. What kept me up were children and parents. I fin
 to send a question to the social sector in case my skills were useful there. And got
 immediately a position as a family therapist. Never regretted this. Here I get to grow and
 develop and my skills are put to good use. I can manage to have some free time and am more energetic than ever."			
-	eksjö	Preschool teacher	"Yes, where do you really start? I have worked as a preschool teacher for 12 years and love what I do
+57		eksjö	Preschool teacher	"Yes, where do you really start? I have worked as a preschool teacher for 12 years and love what I do
 profession. The joy you get from the children gives so much back. Unfortunately, the conditions will be
 worse and worse for us to see each child. At my preschool, we are no longer allowed to bring in substitutes when
 someone is gone, because it creates anxiety among the children according to my boss. Of course I can agree
@@ -911,7 +911,7 @@ her comment is: then let it happen.
 If we point out that we feel stressed or that we feel inadequate, the manager says that we
 must work on ourselves, we must lower the demands on ourselves.
 How long will you be able to work without support and understanding?"			
-	enköping	Preschool teacher	"I have now resigned to go to school and preschool class. How can I now be enticed to get
+58		enköping	Preschool teacher	"I have now resigned to go to school and preschool class. How can I now be enticed to get
 18 children myself compared to today at the preschool where, according to the paper, we should be 3.6 staff out of 28
 five year olds? Yes, because in the preschool we have no individual planning. What we get is one hour
 department planning every three weeks. Our monthly workplace meetings include lectures on
@@ -924,7 +924,7 @@ us who work and also inhumane for the children! So now I give the profession one
 transfer to school really hope for better conditions there. We actually have
 the world's most important and most enjoyable job, but with these conditions it becomes unsustainable
 for everyone involved."			
-	enköping	Preschool teacher	"We skip temporary jobs again because we know we don't have money. There is a total buying freeze and we
+59		enköping	Preschool teacher	"We skip temporary jobs again because we know we don't have money. There is a total buying freeze and we
 need staples for the staple gun to get material on the wall, but there aren't any.
 Today I work 50% right now, as I am on maternity leave with a little 6 month old. Working
 over today because someone needs to close. The children notice that several of the staff are gone and
@@ -936,7 +936,7 @@ bite marks after an outbreak. We constantly try to create smaller contexts for t
 have calm and educational meetings, but sometimes the opportunity is not available when educators are ill. The children
 in our group are fantastic but they cannot cope with the large groups of children and the noise level. How will
 can we meet these children based on their needs without money for materials and resources?"			
-	enköping	Preschool teacher	"How to cope?
+60		enköping	Preschool teacher	"How to cope?
 I love my job, really. With other conditions, it would be a dream job. I have
 only worked as a preschool teacher for two years but is already starting to think about other possible jobs. For
 how will I be able to work with this whole professional life? There is a constant lack of staff and that
@@ -956,7 +956,7 @@ deserve better conditions to be able to do their job. Children deserve to be saf
 be seen and heard and learn and develop on their own and together with their friends
 (smaller groups of children!). Guardians deserve to be able to leave their children at preschool without
 guilty conscience and without, during their working day, thinking about how one's children are really doing."			
-	eskilstuna	Head of preschool	"Works as preschool director in Eskilstuna.
+61		eskilstuna	Head of preschool	"Works as preschool director in Eskilstuna.
 Most of my work involves supporting, comforting and helping my employees cope
 continue to work in preschool. I cannot influence to the extent I wish because the school money
 determined from the policy. I, for my part, have my commitments clear to me, it's the budget that
@@ -981,7 +981,7 @@ We need to do something now while there are still some preschool teachers and na
 wants to continue working in preschools. And to reduce the sick number of pedagogues on sick leave so that they
 also have a chance to get back to work in the preschool. For all children this must get one
 Stop!"			
-	eskilstuna	Preschool teacher	"The job is stressful. You don't get substitutes when needed. For large groups of children 7.5 children 3-5 years,
+62		eskilstuna	Preschool teacher	"The job is stressful. You don't get substitutes when needed. For large groups of children 7.5 children 3-5 years,
 5.5 children 1-3 years. There is hardly any time for planning and reflection. Too high sound levels. The salaries
 gotta get up!!! We have to tell parents and the media the truth about the situation! It is
 crisis!!! There is no money to create a pleasant learning environment. All reports to be written.
@@ -994,11 +994,11 @@ As a mother, it is not fun to pick up your child from the nursery and be told th
 talking so loud. He is completely exhausted because of the noise levels so he falls asleep every day when we go home.
 It doesn't feel good that you barely know who his teachers are. Are they sick or not?
 sick leave, new ones will come."			
-	eskilstuna	Preschool teacher	"We almost always have a shortage of substitutes or money has to be saved. Plans rarely come off then
+63		eskilstuna	Preschool teacher	"We almost always have a shortage of substitutes or money has to be saved. Plans rarely come off then
 missing staff. More children must come in for us to bring in money. I can't bear to plan that I will
 have planning so that most things are spontaneous and half-baked. It makes me not feel like I'm doing one
 good job."			
-	eskilstuna	Preschool teacher	"Just tell about today and the whole picture becomes clear. I am working part time while waiting for an operation.
+64		eskilstuna	Preschool teacher	"Just tell about today and the whole picture becomes clear. I am working part time while waiting for an operation.
 Had two things booked on em. It's just after seven o'clock, there's a text message from
 the temporary phone where it is asked if I can change my time and work in the afternoon instead. We are
 three colleagues in the department, one is ill and the other is going to the doctor with his son. There is
@@ -1006,7 +1006,7 @@ no bay for those who are ill and, moreover, there is a lack of staff in the othe
 It's the first day of school today so I had to cancel my stuff in the afternoon,
 otherwise there would have been no regular from half past one. This is how it looks too
 Often."			
-	eskilstuna	Preschool teacher	"I work in a group with 23 children aged 2-5 years, we will be 3 full-time if all are healthy.
+65		eskilstuna	Preschool teacher	"I work in a group with 23 children aged 2-5 years, we will be 3 full-time if all are healthy.
 I feel inadequate and stressed, my ears are ringing and the whole autumn has more or
 less been chaos. Large groups of children, colleagues who are on sick leave due to stress and no money
 to substitutes. Week after week, the regular schedule has crashed and I've been in the middle of it
@@ -1020,7 +1020,7 @@ the children insecure or aggressive and loud. Several children showed signs of u
 I tried to start activities but often had to leave the children because other children were arguing
 each other or a diaper needed changing. I have contacted the union and feel compelled to
 looking for another job, after working 25 years as a preschool teacher..."			
-	eskilstuna	Preschool teacher	"As bad as the situation is now, I have not been involved before. We have 20 soon to be 21 children in the group
+66		eskilstuna	Preschool teacher	"As bad as the situation is now, I have not been involved before. We have 20 soon to be 21 children in the group
 with 1-5 year olds where 8 soon to be 9 children are 1-2 years old. Rules for á prices change so we get less money
 and it depends on how many hours the child attends preschool. 25 hours instead of 15
 does not give more money, therefore and due to high pressure we have to take in another child.
@@ -1049,7 +1049,7 @@ there is no one willing/able to work there? Resources are also needed for us as 
 work so we can and have the energy to do our job. Sometimes I just want to leave the building and go home and
 cry. I like my job and have worked as a preschool teacher in the preschool for almost 15 years but am starting
 look around for something else because I can't take it anymore."			
-	eskilstuna	Preschool teacher	"Worried about the future!
+67		eskilstuna	Preschool teacher	"Worried about the future!
 Working in preschool is the best there is, no job gives so much back. The feeling of
 be able to make a difference for the children every day and at the same time have fun with colleagues
 towards the same goal. Plan and reflect together with colleagues to get the business to
@@ -1074,7 +1074,7 @@ it is difficult to put together a schedule that covers the day and that is when 
 can book substitutes if there are any but the economy doesn't support it. It's time for it
 there is a change before something serious happens, it's about safety, security for ours
 children and our future."			
-	eskilstuna	Preschool teacher	"Today we had a fantastic day.
+68		eskilstuna	Preschool teacher	"Today we had a fantastic day.
 We have had time to go sledding, build snow castles and build labyrinths in the snow. The day
 continued with a quiet lunch where the food was enough for everyone, the noise level was just right and we had time
 deal with many exciting topics of conversation. During the afternoon we have done
@@ -1088,7 +1088,7 @@ How amazing is it that half the group of children must be absent for that feelin
 to appear?
 Smaller children's groups are needed NOW!
 Because the kids and we deserve to have a great day EVERY DAY!"			
-	eskilstuna	Preschool teacher	"I graduated last year after 3.5 years of education and I was looking for my first job. Tense
+69		eskilstuna	Preschool teacher	"I graduated last year after 3.5 years of education and I was looking for my first job. Tense
 and expectant. Already during the recruitment process, I began to sense how controlled the man was
 becomes I was not told which preschools applied but was matched so that there was none
 option. The management then got together to push down the starting salary. I was thrown
@@ -1115,7 +1115,7 @@ throw away goods. One day after work, I didn't understand where I was. And now I
 to even be in a store without getting dizzy and ending up there again. I feel so let down
 who have spent time and money on this training and already feel that I need to rule
 my life in a completely different direction to even survive."			
-	eskilstuna	Preschool teacher	"Because of my job, which I really enjoy, I get sick. I get sick because
+70		eskilstuna	Preschool teacher	"Because of my job, which I really enjoy, I get sick. I get sick because
 I just try to do my job, as well as possible. The children are our future and they deserve that
 get the best conditions possible and I know that a good educator who wants the best for the children,
 can be crucial for some children. I learned that in the childcare training, i
@@ -1144,7 +1144,7 @@ and are 3 pedagogues to cope without resources for the children who need an peda
 approach yourself all the time to get the conditions to succeed.
 For my part, I wish that the School Board's recommendations on the size of children's groups will be implemented
 law. I also wish that exhaustion syndrome would be classified as a work injury!"			
-	eskilstuna	Preschool teacher	"Want to tell you about ""our"" child-free time, which is next to non-existent. This time to be there to
+71		eskilstuna	Preschool teacher	"Want to tell you about ""our"" child-free time, which is next to non-existent. This time to be there to
 among other things, both individually and in work teams, plan the business.
 We have no individual planning/reflection, but have to hope that some children are sick sometimes
 that we can go away spontaneously for an hour or so.
@@ -1160,7 +1160,7 @@ large group of children that only gets bigger and bigger. Starts working in Augu
 that it will probably save me from being completely exhausted. At the same time, I get stressed and get
 guilty conscience because I don't know how...or IF...my 20% will be covered so that
 my colleagues have to work twice as hard because of me."			
-	eskilstuna	Preschool teacher	"Have soon worked as a preschool teacher for 28 years and think hard about how to cope
+72		eskilstuna	Preschool teacher	"Have soon worked as a preschool teacher for 28 years and think hard about how to cope
 pension. The last few years have been tough with large groups of children, high staff turnover and
 bad substitutes. The election promise about reduced children's groups, where did it go? We have received more
 children in the groups and they go all day.
@@ -1176,7 +1176,7 @@ My colleagues and I try to keep our noses above water every day!
 Even the children feel bad in this chaos, you don't have time to see and hear the children.
 Today's preschool is a sinking ship and something must be done before all preschool staff
 disappears due to sick leave or change of profession!"			
-	eskilstuna	Preschool teacher-student	"I work as a substitute at my VFU preschool and study semester 6 of the preschool teacher program
+73		eskilstuna	Preschool teacher-student	"I work as a substitute at my VFU preschool and study semester 6 of the preschool teacher program
 and my biggest concern is whether I will even be able to cope with the work before I even get my degree..
 with departments with incomplete work teams (3ped) due to sick leave, parental leave
 and someone who is late makes the business disastrous. Had I had my own children on
@@ -1192,7 +1192,7 @@ because no one seems to know what needs to be done. The goals are so important e
 in crisis say some educators. I say screw the goals and start with getting the kids to bond
 to the staff, to keep them safe and well. THEN the goal fulfillment can come! For it
 will be as it will be when we do what we do! I hope I can bear to see what I see is terrible."			
-	eslöv	Preschool teacher	"Works at a preschool with 4 departments. 2 large 3-5 year olds and 2 small 1-3. On our grandkids
+74		eslöv	Preschool teacher	"Works at a preschool with 4 departments. 2 large 3-5 year olds and 2 small 1-3. On our grandkids
 are we 21-22 children of 2.75%; toddlers have 14 and are 2;75%. When someone or a few are sick
 it is difficult to get a substitute and often you have to try to solve the day between the departments and
 work over.
@@ -1200,7 +1200,7 @@ You can't be sick because then you know there will be chaos at work. A lot of ta
 is done, but the planning is often canceled and you cannot find time to take it later.
 You don't get much support or encouragement from the preschool director for what you do, they just watch
 that if you haven't got a substitute, you've saved some money."			
-	falkenberg	Preschool teacher	"I work at a 3-section preschool and thanks to government money, we are now two extra
+75		falkenberg	Preschool teacher	"I work at a 3-section preschool and thanks to government money, we are now two extra
 resource staff at the preschool (2x75%). But we already know/understand that these services are coming
 to disappear by the fall of 2018. It contributes to the fact that our regular schedule will be forced
 changes drastically. Our planning scheduled hours disappear. Now we get with need and
@@ -1213,9 +1213,9 @@ of the children and ""keep-your-head-above-water"" situation. What kind of presc
 politicians have? Of course, an educational and inspiring, fun-filled preschool. Then it must also get
 cost accordingly! With trained staff, who can and want to continue to do the work that we do
 everyone is trained for and passionate about! The children are our future!"			
-	falkenberg	Preschool teacher	"Too large groups of children for the educator to have time to pay attention to all the children and give undisturbed
+76		falkenberg	Preschool teacher	"Too large groups of children for the educator to have time to pay attention to all the children and give undisturbed
 them the time they need from you."			
-	falkenberg	Preschool teacher	"""My biggest wish for the preschool is smaller groups of children. Greater opportunity to see each
+77		falkenberg	Preschool teacher	"""My biggest wish for the preschool is smaller groups of children. Greater opportunity to see each
 amazing individual and be able to meet their needs. It is impossible to get to know all children,
 offer an educational activity, document and give each child the best opportunities to
 develops to its best self as the size of the children's groups looks like. Currently, it is ""always""
@@ -1225,7 +1225,7 @@ the child with special needs, the child in need of closeness and comfort, the ch
 interaction, the child who is curious and needs an adult as support in his exploration or for it
 adults who are passionate about their jobs but constantly feel fragmented and inadequate. Please,
 wake up before it's too late!"			
-	falkenberg	Preschool teacher	"Wonderful day at half a children's group!
+78		falkenberg	Preschool teacher	"Wonderful day at half a children's group!
 Last Thursday (25/2) half of our children's group was sick and off. In other words, we were 8 children with 3 teachers.
 That day we had educational moments all day, we documented what we did and
 could easily post different things / pictures on the children's page in unique. We could easily succumb
@@ -1236,7 +1236,7 @@ other five. Otherwise, we always sit at separate tables and 4-5 children by ours
 free play, with plenty of space for dressing up, laughing and playing in the afternoon with those present
 and the teachers here.
 Ohhhh how I wish every day could be allowed to be like that!"			
-	falkenberg	Preschool teacher	"I work at a preschool with three sections and the youngest go to mine, 16 1-3 year olds and we
+79		falkenberg	Preschool teacher	"I work at a preschool with three sections and the youngest go to mine, 16 1-3 year olds and we
 are 3 full time there. Thinking about what a hysterical work environment we have and that we can't always go on
 the toilet when we need. Or take a coffee break in peace and quiet. This was my work day
 the other day.:
@@ -1252,7 +1252,7 @@ around him.
 This is today's working environment in reality at many of our preschools!!! That's enough
 really! We deserve to be able to sit down for 5 minutes and drink a cup of coffee/eat an apple
 peace and quiet. Breathe. Being able to go to the toilet with a clear conscience when we need to!"			
-	falkenberg	Preschool teacher	"Every day at my 3-department preschool, we have to talk about how we solve the afternoons,
+80		falkenberg	Preschool teacher	"Every day at my 3-department preschool, we have to talk about how we solve the afternoons,
 after the snack. How do we do the house? ""Do we go out or do we survive if we stay inside and
 divide us? Well, I have 11 little ones left and can't bring in any older ones - so we're forced to go out
 another afternoon to survive""....
@@ -1266,7 +1266,7 @@ are needed even more in the mornings, so then we are not enough to cover a good 
 also the end of the day. Sigh!
 When will we ever get good staffing all day? Yes, the day the children's groups are reduced in number
 and the basic staff is strengthened!"			
-	falkenberg	Preschool teacher	"Today, like all other days, I was by myself until 8 o'clock when colleague number 2 arrived.
+81		falkenberg	Preschool teacher	"Today, like all other days, I was by myself until 8 o'clock when colleague number 2 arrived.
 Together we tried to implement an educational meal with 12 children aged 1-2.5 years. After
 feeding, picking out, drying, washing, several nappy changes and various conflict management
 dropping two more children into the group, at the same time I will welcome another completely unknown one
@@ -1290,7 +1290,7 @@ must be written today - do I have time? Can I go to the university's tutor meeti
 I cancel? How will I be able to carry out my mission as well as I so deeply want?
 Yesterday my seventeen year old daughter pleaded with me to quit my job because she is constantly experiencing
 me so tired and depressed. Is this how it should be?"			
-	falkenberg	Preschool teacher	"Hello. I have now worked for 2 years as a preschool teacher. I meet colleagues who have worked for 3-4 years and know
+82		falkenberg	Preschool teacher	"Hello. I have now worked for 2 years as a preschool teacher. I meet colleagues who have worked for 3-4 years and know
 not how they will be able to work 5 more years even. I am lucky to end up in a group of children with something
 fewer children. 11 small 1-2 year olds, soon we will get 2 more. We are 2.3% and an extra 10 hours a week.
 It works, but it's still stressful at times of the day when there are no more than 2 = ie quite
@@ -1307,7 +1307,7 @@ heavy for certain professional groups? Isn't it too heavy for us???? We will was
 never runs out of all the tasks. Completely shocked when I got out and started working.
 Huh??? Should you do All this with???? I will probably last more than 5 years, but I am working
 only 75% Full time = I would never be able to do it."			
-	falkenberg	Preschool teacher	"I leave my child at preschool. The teacher meets with a smile in the hall, but I see that
+83		falkenberg	Preschool teacher	"I leave my child at preschool. The teacher meets with a smile in the hall, but I see that
 it looks heavy. How are you today, I ask? Yes, it's a bit heavy. I am myself today.
 No substitute for my colleague. They are 2 of 14 children. Soon 2 more will be transferred from younger
 children. 16 children. Or what I say. They are not 2, they are 1.8 staff. Imagine if everyone knew. It is
@@ -1329,15 +1329,15 @@ but I so sincerely wish that this profession can get the status and respect that
 all these lovely children everything they deserve. I wish my children to have the right to the best in the world
 preschool they deserve. It will start now. When will that change come? Thanks to everybody
 colleagues who struggle against the odds every day. We and the children deserve better than this!"			
-	falköping	Preschool teacher	"I get discouraged when I think about the situation in the preschool, too many children in the groups and
+84		falköping	Preschool teacher	"I get discouraged when I think about the situation in the preschool, too many children in the groups and
 too few staff. I think it is laughable that there is talk of equivalent preschool in the country, then
 conditions are not equal, give all children the right to the same number of teachers and the same size
 children's groups. I am absolutely convinced that fewer children would have a hard time in preschool if only
 group sizes decreased. I want so much in my work with the children mainly to give all children
 the time they need to learn and develop, and I need more planning time for
 plan teaching, document and reflect."			
-	falu	Preschool teacher	After the spring enrollments, we will have 15 children aged 1-2 with three members of staff. Crazy!			
-	falu	Preschool teacher	"I graduated in 2013. I haven't worked many days after that and felt like I have
+85		falu	Preschool teacher	After the spring enrollments, we will have 15 children aged 1-2 with three members of staff. Crazy!			
+86		falu	Preschool teacher	"I graduated in 2013. I haven't worked many days after that and felt like I have
 did a good enough job. That I came home and felt ""today I have seen all the children and
 performed a good pedagogical work'. The days that I have felt that I am enough, and that I am not
 is completely mentally and physically exhausted, is when the number of children has not been so high because of
@@ -1353,7 +1353,7 @@ preschool teacher. When we have to have a substitute (which is quite often), we 
 any. For a week I worked with a new substitute every day, so 5 different ones.
 Everyone I have contact with from university wants to change professions, not so strange I think.
 The ones who take the biggest hit are the children."			
-	falu	Preschool teacher	"Has worked in preschool since 2007. Over the years has lacked identification for the profession, but
+87		falu	Preschool teacher	"Has worked in preschool since 2007. Over the years has lacked identification for the profession, but
 a year ago I did a validation at Stockholm University. Now I'm joining
 ID card in my hand and have calculated what this year has cost me financially. One
 years of studies have cost me a total of approx. 70,000 kroner. I didn't get any
@@ -1369,7 +1369,7 @@ hours of individual planning to be able to conduct an educational activity from 
 we have succeeded in achieving the curriculum's goals.
 Thinking about WHEN and IF my studies and teaching skills will ever get
 be used properly when reality looks like it does today......"			
-	falu	Preschool teacher	"After 6 years in the municipality, I have chosen to go to another municipality.
+88		falu	Preschool teacher	"After 6 years in the municipality, I have chosen to go to another municipality.
 This is because there are too large groups of children and too few adults with these small children. All autumn -17
 has consisted of schooling. Two to three new children every week so we adults didn't have time with all of them
 crying babies, all new parents worried as they saw how we struggled with these new babies.
@@ -1390,17 +1390,17 @@ he not so then I resigned.
 I hope that I will enjoy the new municipality and have promised myself that if not
 will be good, then I'll switch, I think completely, completely. No one thanks me for working myself to death
 me and cry when I get home."			
-	falu	Preschool teacher	"23 children in my ward, few staff and whole days in stress! The feeling of inadequacy
+89		falu	Preschool teacher	"23 children in my ward, few staff and whole days in stress! The feeling of inadequacy
 comes upon us every day. So many children with so many different needs! Has been on sick leave
 a longer time but returned to the profession but balancing on a fragile thread all the time Love
 my job but this is not Ok!!! Not for the children and not for the educators. Something must be done
 and it is NOW!"			
-	falu	Preschool teacher	"Have worked for almost 40 years, but the number of children assigned to the number of staff is significantly higher today.
+90		falu	Preschool teacher	"Have worked for almost 40 years, but the number of children assigned to the number of staff is significantly higher today.
 Longer days for the children, many children in need of extra support, parents who do not respect
 that the children should only be at the preschool when the parents are working or studying, not during their own time
 friends or gym. In addition, we as educators have received more documentation and others
 administration / correspondence to be done."			
-	falu	Preschool teacher	"Coming to work Monday morning and being greeted by the ""news"" that yet another educator is sick and
+91		falu	Preschool teacher	"Coming to work Monday morning and being greeted by the ""news"" that yet another educator is sick and
 the air passes me out. This after we have worked briefly with staff for 2 weeks (5-6 of
 12 ped away). Now some people sigh and think that this is how it is in most workplaces
 ""vabruary"". 5 of the 6 who are on sick leave are on long-term sick leave due to stress. The job is done
